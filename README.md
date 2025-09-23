@@ -2,7 +2,7 @@
 
 ## 🖨️ Hobby 3D Prints
 
-Welcome to my 3D printing playground!  
+Welcome to my 3D printing playground! (will remain in constant state of progress)
 Here you'll find my creative projects, experiments, and prints.  
 
 ---
